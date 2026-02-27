@@ -23,6 +23,9 @@ export default function RootLayout({
             <Link href="/vault" className="hover:text-emerald-400">
               Vault
             </Link>
+            <Link href="/login" className="hover:text-emerald-400">
+              Login
+            </Link>
           </div>
         </nav>
 
